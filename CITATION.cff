@@ -4,7 +4,7 @@ authors:
 - family-names: "de Gois"
   given-names: "Carlos"
   orcid: "https://orcid.org/0000-0001-9377-4168"
-title: "eapam_cc_vs_qc"
+title: "Code to accompany "Interplays between classical and quantum entanglement-assisted communication scenarios""
 # version: 1.0.0
 # doi: 10.5281/zenodo.1234
 date-released: 2022-04-22
