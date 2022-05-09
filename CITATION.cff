@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "de Gois"
+  given-names: "Carlos"
+  orcid: "https://orcid.org/0000-0001-9377-4168"
+title: "eapam_cc_vs_qc"
+# version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-04-22
+url: "https://github.com/cgois/eapam_cc_vs_qc"
