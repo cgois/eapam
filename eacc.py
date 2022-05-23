@@ -15,11 +15,11 @@ import numpy as np
 # TODO: Change to programatically set the entanglement dimension.
 N_X = 3  # Nof. preparations.
 N_C = 2  # Dim. of preparations.
-D_B = 4  # Total dim. of Bob's system (i.e., comm. + resource)
+D_B = 2  # Dim. of Bob's system (i.e., his initial resource)
 N_B = 4  # Nof. Bob's outputs.
 N_Y = 1  # Nof. Bob's measurements.
-N_ROUNDS = 70
-N_STARTS = 20
+N_ROUNDS = 30
+N_STARTS = 15 
 SOLVER = "mosek"
 ATOL = 10e-10
 
